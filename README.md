@@ -1,6 +1,12 @@
 # IdkRx Skills
 
-Public skills for the [IdkRx API](https://idkrx.com) — pharmacy search, medication data, and shortage tracking. Each skill is a `SKILL.md` file with endpoint references, parameters, and runnable examples that teach LLMs and developers how to use the IdkRx API surface.
+Public skills for the [IdkRx API](https://idkrx.com): pharmacy search, medication data, and shortage tracking. Each skill is a `SKILL.md` file with endpoint references, parameters, and runnable examples that teach LLMs and developers how to use the IdkRx API surface.
+
+## Claude plugin
+
+`claude-plugin/` is the IdkRx plugin for Claude: the IdkRx connector (`https://mcp.idkrx.com/mcp`)
+with skills for reporting a pharmacy's stock and, for pharmacy staff, posting its verified
+availability and public notice. It is listed in Anthropic's directory from this repository.
 
 ## Install
 
@@ -18,6 +24,7 @@ npx skills add idkrx/skills --skill local-demo-testing
 
 | Skill | Description |
 |---|---|
+| [connect-idkrx](./skills/connect-idkrx/SKILL.md) | Add the IdkRx connector to Claude, ChatGPT, Gemini, Perplexity, Grok or Muse |
 | [local-demo-testing](./skills/local-demo-testing/SKILL.md) | Example skill for testing installation and learning the IdkRx API surface |
 
 ## Structure
