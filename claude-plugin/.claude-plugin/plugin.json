@@ -8,5 +8,6 @@
     "url": "https://idkrx.com"
   },
   "homepage": "https://idkrx.com",
-  "license": "MIT"
+  "license": "MIT",
+  "privacyPolicyUrl": "https://idkrx.com/legal/privacy"
 }
