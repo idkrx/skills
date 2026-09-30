@@ -1,7 +1,7 @@
 {
   "name": "idkrx",
   "displayName": "IdkRx",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Report whether a pharmacy has a medication in stock from a conversation, and, for pharmacy staff on an IdkRx rep plan, post the pharmacy's verified availability and public notice. Every write is previewed and confirmed first.",
   "author": {
     "name": "IdkRx LLC",
