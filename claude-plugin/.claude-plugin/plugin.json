@@ -8,6 +8,10 @@
     "url": "https://idkrx.com"
   },
   "homepage": "https://idkrx.com",
+  "repository": "https://github.com/idkrx/skills",
   "license": "MIT",
-  "privacyPolicyUrl": "https://idkrx.com/legal/privacy"
+  "privacyPolicyUrl": "https://idkrx.com/legal/privacy",
+  "termsOfServiceUrl": "https://idkrx.com/legal/terms",
+  "supportUrl": "https://idkrx.com/support/connectors",
+  "documentationUrl": "https://github.com/idkrx/skills/tree/main/claude-plugin#readme"
 }
