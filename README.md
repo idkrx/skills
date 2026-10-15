@@ -24,7 +24,7 @@ npx skills add idkrx/skills --skill local-demo-testing
 
 | Skill | Description |
 |---|---|
-| [connect-idkrx](./skills/connect-idkrx/SKILL.md) | Add the IdkRx connector to Claude, ChatGPT, Gemini, Perplexity, Grok or Muse |
+| [connect-idkrx](./skills/connect-idkrx/SKILL.md) | Add the IdkRx connector to Claude, ChatGPT, Grok or Muse |
 | [local-demo-testing](./skills/local-demo-testing/SKILL.md) | Example skill for testing installation and learning the IdkRx API surface |
 
 ## Structure
