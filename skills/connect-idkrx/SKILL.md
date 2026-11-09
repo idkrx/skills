@@ -17,7 +17,7 @@ To connect it:
 Where each app adds a custom connector:
 
 Assistants:
-- ChatGPT: https://chatgpt.com/plugins
+- ChatGPT: https://chatgpt.com/plugins/plugin_asdk_app_6abf0a3944bc81918dd34a519eddca0e
 - Claude: https://claude.ai/customize/connectors
 - Grok: https://grok.com/connectors
 Agents:
